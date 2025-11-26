@@ -1,0 +1,11 @@
+streamlit
+
+pyspark ==3.5.1  
+
+joblib
+
+pandas
+
+numpy
+
+scikit-learn
