@@ -4,11 +4,11 @@ Big Data Application for Bank Churn Prediction and Customer Behavior Modeling.
 
 Ứng dụng Big Data trong phân tích hành vi khách hàng và dự đoán rời bỏ
 
-#  1. Mục tiêu của dự án:
+#  1. Mục tiêu của dự án
 
 Dự án này trình bày một giải pháp Big Data End-to-End nhằm giải quyết vấn đề Dự đoán Khách hàng Rời bỏ Ngân hàng (Bank Churn Prediction). Bằng cách tận dụng các kỹ thuật học máy tiên tiến và sức mạnh tính toán trên đám mây (Cloud Computing), chúng tôi phân tích hành vi phức tạp của khách hàng để xác định sớm những người có nguy cơ rời đi, từ đó hỗ trợ ngân hàng đưa ra chiến lược giữ chân khách hàng kịp thời và hiệu quả.
 
-#  2. Các công nghệ được ứng dụng:
+#  2. Các công nghệ được ứng dụng
 
 Python: Ngôn ngữ chính để xử lý dữ liệu và xây dựng mô hình
 
